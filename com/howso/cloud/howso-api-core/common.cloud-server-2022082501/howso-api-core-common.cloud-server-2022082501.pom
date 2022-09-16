@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>howso-common-core</artifactId>
+        <groupId>com.howso.cloud</groupId>
+        <version>cloud.2.0.0-server-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>howso-api-core</artifactId>
+    <version>${howso.common.version}</version>
+    <packaging>jar</packaging>
+    <description>RPC api core</description>
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-starter-openfeign</artifactId>
+        </dependency>
+        <dependency>
+            <groupId>com.howso.cloud</groupId>
+            <artifactId>howso-sentinel-starter</artifactId>
+            <version>${howso.common.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>com.howso.cloud</groupId>
+            <artifactId>howso-loadbalancer-starter</artifactId>
+            <version>${howso.common.version}</version>
+        </dependency>
+    </dependencies>
+</project>
