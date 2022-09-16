@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.howso.cloud</groupId>
+  <artifactId>howso-common-core</artifactId>
+  <versioning>
+    <versions>
+      <version>cloud.2.0.0-server-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20220916112222</lastUpdated>
+  </versioning>
+</metadata>

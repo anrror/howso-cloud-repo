@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.howso.cloud</groupId>
+  <artifactId>howso-common-core</artifactId>
+  <version>cloud.2.0.0-server-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20220916.112222</timestamp>
+      <buildNumber>1</buildNumber>
+    </snapshot>
+    <lastUpdated>20220916112222</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>cloud.2.0.0-server-20220916.112222-1</value>
+        <updated>20220916112222</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
