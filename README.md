@@ -1,1 +1,1 @@
-# howso-cloud-repo
+华苏云maven仓库
