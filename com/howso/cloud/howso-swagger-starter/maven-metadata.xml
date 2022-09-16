@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.howso.cloud</groupId>
+  <artifactId>howso-swagger-starter</artifactId>
+  <versioning>
+    <release>common.cloud-server-2022082501</release>
+    <versions>
+      <version>common.cloud-server-2022082501</version>
+    </versions>
+    <lastUpdated>20220916111841</lastUpdated>
+  </versioning>
+</metadata>
