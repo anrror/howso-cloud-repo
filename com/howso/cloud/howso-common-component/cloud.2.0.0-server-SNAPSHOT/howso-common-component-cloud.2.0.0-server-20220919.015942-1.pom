@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <parent>
+        <artifactId>howso-common</artifactId>
+        <groupId>com.howso.cloud</groupId>
+        <version>cloud.2.0.0-server-SNAPSHOT</version>
+    </parent>
+    <modelVersion>4.0.0</modelVersion>
+
+    <artifactId>howso-common-component</artifactId>
+    <packaging>pom</packaging>
+    <modules>
+        <module>howso-redis-starter</module>
+        <module>howso-mysql-starter</module>
+        <module>howso-mongodb-starter</module>
+        <module>howso-kafka-starter</module>
+        <module>howso-sentinel-starter</module>
+        <module>howso-swagger-starter</module>
+        <module>howso-loadbalancer-starter</module>
+        <module>howso-log-starter</module>
+        <module>howso-oauth2-starter</module>
+        <module>howso-oauth2-model</module>
+        <module>howso-mybatis-ddd-starter</module>
+    </modules>
+</project>
