@@ -5,15 +5,15 @@
   <version>cloud.2.0.0-server-SNAPSHOT</version>
   <versioning>
     <snapshot>
-      <timestamp>20220916.111303</timestamp>
+      <timestamp>20220919.015748</timestamp>
       <buildNumber>1</buildNumber>
     </snapshot>
-    <lastUpdated>20220916111303</lastUpdated>
+    <lastUpdated>20220919015748</lastUpdated>
     <snapshotVersions>
       <snapshotVersion>
         <extension>pom</extension>
-        <value>cloud.2.0.0-server-20220916.111303-1</value>
-        <updated>20220916111303</updated>
+        <value>cloud.2.0.0-server-20220919.015748-1</value>
+        <updated>20220919015748</updated>
       </snapshotVersion>
     </snapshotVersions>
   </versioning>
